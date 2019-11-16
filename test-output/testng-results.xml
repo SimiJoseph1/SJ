@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47678" started-at="2019-11-16T11:17:54Z" finished-at="2019-11-16T11:18:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47678" started-at="2019-11-16T11:17:54Z" finished-at="2019-11-16T11:18:42Z">
+      <class name="acme1.Invoices">
+        <test-method status="PASS" signature="findInv()[pri:0, instance:acme1.Invoices@548e7350]" name="findInv" duration-ms="47575" started-at="2019-11-16T11:17:54Z" finished-at="2019-11-16T11:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findInv -->
+      </class> <!-- acme1.Invoices -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
